@@ -1,0 +1,16 @@
+.autocomplete-result-list .autocomplete-result{
+    background-image: none;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+/* .dataTables_filter{
+    visibility: hidden;
+}
+.float-btn-sec{
+    position: absolute;
+    right:10px;
+    z-index: 1;
+} */
+.mt-25{
+    margin-top: 25px;
+}
